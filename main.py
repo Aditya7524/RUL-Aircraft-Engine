@@ -1,6 +1,6 @@
 """main.py: Turbo Jet Engine RUL Prediction"""
 
-__author__ = "Jidhu Mohan M"
+__author__ = "Aditya"
 __license__ = "GNU GPL"
 __version__ = "0.1.0"
 __maintainer__ = "Jidhu Mohan M"
